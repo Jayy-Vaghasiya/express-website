@@ -23,7 +23,7 @@ The project structure includes the following folders and files:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/jayy-vaghasiya/express-website.git
+   git clone https://github.com/Jayy-Vaghasiya/express-website.git
 
 ## Features
 Full Website: Explore different pages such as Home, About Us, Contact, and API Demo.
